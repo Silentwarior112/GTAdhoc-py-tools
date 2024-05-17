@@ -15,3 +15,5 @@ Tools:
 
 2. GT4 Used wheel script maker: Input raw list of wheel codes, and generate formatted script.
   - Multiple day division options
+
+Requires [Python](https://www.python.org/downloads/)
