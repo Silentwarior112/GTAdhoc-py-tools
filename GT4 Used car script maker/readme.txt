@@ -49,6 +49,10 @@ Usage:
 	also somewhere else. Special cases include the black edition variants,
 	or cars that appear in the used dealership, but have a prize-only special color variant, such as 
 	mgf_vvc_97, etc.
+
+	This also doesn't account for mx5_gms_05. If the model hasn't been restored from the MX-5 demo
+	and integrated into the carlist somewhere, this needs to be manually removed.
+	
 	Once this list is generated, you can remove the special cases from the rule out list as needed,
 	and make sure to take note of which cars you removed from it before continuing.
 	That way, the next steps will generate the used car entries for them, then you can
